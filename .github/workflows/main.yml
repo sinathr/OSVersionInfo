@@ -53,13 +53,13 @@ jobs:
       run: nuget pack ./OSVersionInfoDLL/OSVersionInfoDLL.csproj -Properties Configuration=Release
       
     - name: DIR
-      run: dir
+      run: dir /s
 
     - name: Nuget Push
       run: nuget push OSVersionInfoDLL.1.0.0.nupkg ${{ secrets.NUGET_API_KEY }} -Source https://api.nuget.org/v3/index.json   
 
     - name: Show Content
-      run: dir /s
+      run: dir
       
     # Runs a single command using the runners shell
     - name: Run a one-line script
