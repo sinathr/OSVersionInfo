@@ -1,0 +1,25 @@
+D:\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\bin\Debug\OSVersionInfo.dll.config
+D:\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\bin\Debug\OSVersionInfo.dll
+D:\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\bin\Debug\OSVersionInfo.pdb
+D:\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\obj\Debug\OSVersionInfoDLL.csprojResolveAssemblyReference.cache
+D:\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\obj\Debug\JCS.Properties.Resources.resources
+D:\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\obj\Debug\OSVersionInfoDLL.csproj.GenerateResource.Cache
+D:\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\obj\Debug\OSVersionInfo.dll
+D:\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\obj\Debug\OSVersionInfo.pdb
+C:\Users\johnn\OneDrive\Dokument\Sparat från SFH-Johnny\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\bin\Debug\OSVersionInfo.dll.config
+C:\Users\johnn\OneDrive\Dokument\Sparat från SFH-Johnny\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\bin\Debug\OSVersionInfo.dll
+C:\Users\johnn\OneDrive\Dokument\Sparat från SFH-Johnny\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\bin\Debug\OSVersionInfo.pdb
+C:\Users\johnn\OneDrive\Dokument\Sparat från SFH-Johnny\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\obj\Debug\OSVersionInfoDLL.csprojResolveAssemblyReference.cache
+C:\Users\johnn\OneDrive\Dokument\Sparat från SFH-Johnny\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\obj\Debug\JCS.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Dokument\Sparat från SFH-Johnny\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\obj\Debug\OSVersionInfoDLL.csproj.GenerateResource.Cache
+C:\Users\johnn\OneDrive\Dokument\Sparat från SFH-Johnny\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\obj\Debug\OSVersionInfo.dll
+C:\Users\johnn\OneDrive\Dokument\Sparat från SFH-Johnny\Hämtade filer\OSVersionInfo\OSVersionInfoDLL\obj\Debug\OSVersionInfo.pdb
+C:\Users\Master\Desktop\OSVersionInfo (1)\OSVersionInfoDLL\bin\Debug\OSVersionInfo.dll.config
+C:\Users\Master\Desktop\OSVersionInfo (1)\OSVersionInfoDLL\bin\Debug\OSVersionInfo.dll
+C:\Users\Master\Desktop\OSVersionInfo (1)\OSVersionInfoDLL\bin\Debug\OSVersionInfo.pdb
+C:\Users\Master\Desktop\OSVersionInfo (1)\OSVersionInfoDLL\obj\Debug\OSVersionInfoDLL.csprojAssemblyReference.cache
+C:\Users\Master\Desktop\OSVersionInfo (1)\OSVersionInfoDLL\obj\Debug\JCS.Properties.Resources.resources
+C:\Users\Master\Desktop\OSVersionInfo (1)\OSVersionInfoDLL\obj\Debug\OSVersionInfoDLL.csproj.GenerateResource.cache
+C:\Users\Master\Desktop\OSVersionInfo (1)\OSVersionInfoDLL\obj\Debug\OSVersionInfoDLL.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\OSVersionInfo (1)\OSVersionInfoDLL\obj\Debug\OSVersionInfo.dll
+C:\Users\Master\Desktop\OSVersionInfo (1)\OSVersionInfoDLL\obj\Debug\OSVersionInfo.pdb
